@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "415883890443",
+    "firebase_url": "https://a-commerce-9fee4.firebaseio.com",
+    "project_id": "a-commerce-9fee4",
+    "storage_bucket": "a-commerce-9fee4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415883890443:android:0aa1a17e041e5c0bea9c0e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415883890443-0fhikmeq8rdrem4lhni13n2vqkcn8tuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAiLtOCbhAP78OjGsrbXlvLqF1_A_z4A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415883890443-0fhikmeq8rdrem4lhni13n2vqkcn8tuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
